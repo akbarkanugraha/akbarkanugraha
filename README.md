@@ -68,20 +68,6 @@ I'm a Data Scientist and Data Analyst with a strong foundation in **statistical 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Akbar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akbarkanugraha&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akbarkanugraha&layout=compact&theme=default&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=akbarkanugraha&theme=default&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
 
 *"Without data, you're just another person with an opinion."* — W. Edwards Deming
